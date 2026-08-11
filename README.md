@@ -31,12 +31,16 @@ const leonardo = {
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-kulkamp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-kulkamp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
-🔥 Minha atividade
-<div align="center"> <img src="https://streak-stats.demolab.com?user=leonardo-kulkamp&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" /> </div>
-🐍 Minhas contribuições
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=leonardo-kulkamp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=leonardo-kulkamp&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Linguagens mais utilizadas" />
+
+</div>
+
 🎯 Atualmente
 📚 Estudando
 ├── Desenvolvimento de Sistemas
