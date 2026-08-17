@@ -28,7 +28,7 @@ const leonardo = {
 💻 Tecnologias & Ferramentas
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql" />
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </div>
 ## 📊 GitHub Analytics
