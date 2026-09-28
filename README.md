@@ -62,5 +62,5 @@ const leonardo = {
 🌐 Vamos nos conectar?
 <div align="center"> <a href="https://github.com/leonardo-kulkamp"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 <div align="center">
-💙 Obrigado pela visita!
+ Obrigado pela visita!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80;See+you+around!+%F0%9F%91%8B" alt="Typing animation" /> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" /> </div>
